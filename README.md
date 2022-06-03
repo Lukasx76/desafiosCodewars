@@ -1,2 +1,1 @@
-# Desafios codewars
-Soluções
+O codewars é uma plataforma que reune desenvolvedores de todos os níveis, seu intuito é fornecer desafios que trabalham a capacidade de raciocínio do desenvolvedor, sendo muito importante para quem está dando os primeiros passos em programação. Nesse repositório postarei as soluções que encontrei para alguns desafios que eu me interessar, serão feitos em python.
