@@ -6,5 +6,5 @@
 
 def find_missing_number(lst):
 
-    result = set(list(range(len(lst) + 1)))
+    result = set(list(range(lst[0], lst[-1])))
     return result.difference(lst)
