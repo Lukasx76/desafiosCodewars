@@ -1,5 +1,5 @@
 """
-    Find the missing element in an array. 
+    Find the missing element in an array of 9 terms from 0 to 9. 
     E.G: [0,1,2,3,4,5,7,8,9]
     Answer: 6
 """
