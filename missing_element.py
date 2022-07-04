@@ -7,4 +7,4 @@
 def find_missing_number(lst):
 
     result = set(list(range(len(lst) + 1)))
-    return result.symmetric_difference(lst)
+    return result.difference(lst)
